@@ -1,8 +1,8 @@
 # simple-barcode-generator
 Straightforward PHP EAN-13 barcode Generator
---------------------------------------------
+
 This php scripts generates a simple EAN-13 barcode in less than 100 code lines (If you don't count the comments, of course). It does so following the procedure as found in this page: http://grandzebu.net/informatique/codbar-en/ean13.htm
---------------------------------------------
+
 # Usage
 
 Originally meant for showing barcodes in an unpublished website I worked on, this script is easy to use.
@@ -10,7 +10,7 @@ Originally meant for showing barcodes in an unpublished website I worked on, thi
 1.- Include in your main script, or copy/paste the content where you need it.
 2.- Call the barcode($cod) function, sending the code you want to draw.
 3.- See the magic.
---------------------------------------------
+
 # MIT License
 
 Copyright (c) 2018 Gheister Morillo
