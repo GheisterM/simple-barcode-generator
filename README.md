@@ -8,7 +8,9 @@ This php scripts generates a simple EAN-13 barcode in less than 100 code lines (
 Originally meant for showing barcodes in an unpublished website I worked on, this script is easy to use.
 
 1.- Include in your main script, or copy/paste the content where you need it.
+
 2.- Call the barcode($cod) function, sending the code you want to draw.
+
 3.- See the magic.
 
 # MIT License
